@@ -2,8 +2,8 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "Markdown based resume",
-
   "dependencies": {
-    "markdown-resume": "~0.1.0"
+    "markdown-resume": "~0.1.0",
+    "npm": "^5.7.1"
   }
 }
