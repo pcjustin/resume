@@ -20,14 +20,14 @@
 }
 
 body {
-  font-family: 'Open Sans','Myriad Pro','Myriad',sans-serif;
+  font-family: sans-serif;
   color: #1D1313;
   font-weight: 300;
   margin:0;
 }
 
 h1, h2, h3, h4, ul dl dt {
-  font-family: 'Old Standard TT',serif;
+  font-family: sans-serif;
 }
 
 .container {
@@ -108,7 +108,7 @@ h2 {
   margin: 0;
   padding: 0;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
   letter-spacing: -1px;
   font-weight: normal;
 }
@@ -117,7 +117,7 @@ h3 {
   margin: 0;
   padding: 0 0 .5em;
   font-size: 150%;
-  font-style: italic;
+  font-style: normal;
   font-weight: normal;
 }
 
@@ -252,7 +252,7 @@ dl em {
   }
   h2 {
     text-transform: uppercase;
-    font-style: italic;
+    font-style: normal;
     letter-spacing: 2px;
     font-weight: normal;
   }

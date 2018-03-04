@@ -26,18 +26,18 @@
 
 ### Experience
 
-**Pax Technology** *Communications Software Engineer* __2016 to present__
-	Designed `SSL protocol` (OpenSSL and PaxSSL) based on POS terminals and refactoring the architecture to improve on multiple platforms and projects.
-	Designed `Bluetooth stack` base on `BlueZ` / `Linux` by myself.
+**Pax Technology** Communications Software Engineer __2016 to present__
+	Designed SSL protocol (OpenSSL and PaxSSL) based on POS terminals and refactoring the architecture to improve on multiple platforms and projects.
+	Designed Bluetooth stack base on BlueZ / Linux by myself.
 	Lead a team to maintain the SSL / HTTP library and figure out these problems.
 
-**Sierra Wireless** *Senior Consultant* __2015 to 2016__
-	Develop Automation System for HW/FW testing(Yocto System) and Framework testing (Legato Framework) that use for testing 2G/3G/4G module for `Automotive`. Drive the certificate of the product and on site support to debug the problem and solve all of problems in Seattle, US. Improve the performance of pretesting and debug the problem, reduce the schedule from three months to one month.
+**Sierra Wireless** Senior Consultant __2015 to 2016__
+	Develop Automation System for HW/FW testing(Yocto System) and Framework testing (Legato Framework) that use for testing 2G/3G/4G module for Automotive. Drive the certificate of the product and on site support to debug the problem and solve all of problems in Seattle, US. Improve the performance of pretesting and debug the problem, reduce the schedule from three months to one month.
 	Product validation and certificate, AT&T certification and PTCRB certification.
 	Develop automation tested equipment system. To use equipment to simulate the CN and BTS and control the device to validate the GSM/WCDMA/LTE protocol and functional feature. 
 	Know how to analyze the 3GPP log and understand the 3GPP technique
 
-**CieNet** *Senior Software Engineer* __2014 to 2015__
+**CieNet** Senior Software Engineer __2014 to 2015__
 	TCL Project:
 	Drive the certificate of the product (2G/3G/4G modem router and adapter) and on site support to debug the problem and solve the problem to get TA. Solve the problems in one month and get two TAs from EE, UK. Pretesting and debug the problem for AT&T certificate in Seattle, US.
 	Handle the project in foreign countries alone. Be a testing engineer, software engineer and project manager to solve all of these customers’ problems.
@@ -49,16 +49,16 @@
 	Using C/C++ language to develop the firmware based on Broadcom and MTK. 
 	Develop IPTV based on TCP/IP protocol.
 
-**Pegatron** *Senior Software Engineer* __2010 to 2014__
+**Pegatron** Senior Software Engineer __2010 to 2014__
 	Using C/C++ language to design the project that based on Broadcom and Realtek.
 	Using C language to write the kernel driver to control new hardware.
-	Using C/C++ language to associate the driver with Framework on `WiFi Router` and `Set-top-box`.
-	Using HNAP to implement first-generation IoT platform based on `WiFi Router` for `Arris`.
+	Using C/C++ language to associate the driver with Framework on WiFi Router and Set-top-box.
+	Using HNAP to implement first-generation IoT platform based on WiFi Router for Arris.
 	Using Java/Eclipse to design Android Launcher on Smart TV.
 	Support the factory in China to resolve the produce problems.
-	Using `JavaScript`, `JQuery` and `HTML` to design WebUI to control the products and store the settings in the Flash.
+	Using JavaScript, JQuery and HTML to design WebUI to control the products and store the settings in the Flash.
 
-**Skardin** *Software Engineer* __2008 to 2010__
+**Skardin** Software Engineer __2008 to 2010__
 	Designed Set-top-box (Aka STB) based on Broadcom platform.
 	Using C/C++ to port the driver on the product.
 	Maintain the old projects to implement new features and improve the
