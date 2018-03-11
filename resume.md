@@ -1,83 +1,94 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# Chien-yi, Justin, Lu
+## Senior Developer & Team Leader & Code Enthusiast
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [pcjustin.github.io (English)](https://pcjustin.github.io/)
+> [blog.csdn.net/pcjustin (Mandarin)](http://blog.csdn.net/pcjustin)
+> [github.com/pcjustin](https://github.com/pcjustin)
+> [github.com/pcjustin/Master_Thesis](https://github.com/pcjustin/Master_Thesis)
+> [pcjustin@icloud.com](mailto:pcjustin@icloud.com)
+> (+86) 185-7558-5566
+> 1983-05-06
 
 ------
 
 ### Technical
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
+1. C/C++
 1. Python
+1. Javascript / jQuery
+1. Java
+1. SSL protocol / OpenSSL
+1. Bluetooth stack / BlueZ
+1. HTTP / HTTPS / HTTP2
 1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. MySQL
+1. WiFi stack / 802.11x
+1. 3G/4G stack / 3GPP
 
 ------
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+**Pax Technology** Communications Software Engineer __2016 to present__
+	Designed SSL protocol (OpenSSL and PaxSSL) based on POS terminals and refactoring the architecture to improve on multiple platforms and projects.
+	Designed Bluetooth stack base on BlueZ / Linux by myself.
+	Lead a team to maintain the SSL / HTTP library and figure out these problems.
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
+**Sierra Wireless** Senior Consultant __2015 to 2016__
+	Develop Automation System for HW/FW testing(Yocto System) and Framework testing (Legato Framework) that use for testing 2G/3G/4G module for Automotive. Drive the certificate of the product and on site support to debug the problem and solve all of problems in Seattle, US. Improve the performance of pretesting and debug the problem, reduce the schedule from three months to one month.
+	Product validation and certificate, AT&T certification and PTCRB certification.
+	Develop automation tested equipment system. To use equipment to simulate the CN and BTS and control the device to validate the GSM/WCDMA/LTE protocol and functional feature. 
+	Know how to analyze the 3GPP log and understand the 3GPP technique
 
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
+**CieNet** Senior Software Engineer __2014 to 2015__
+	TCL Project:
+	Drive the certificate of the product (2G/3G/4G modem router and adapter) and on site support to debug the problem and solve the problem to get TA. Solve the problems in one month and get two TAs from EE, UK. Pretesting and debug the problem for AT&T certificate in Seattle, US.
+	Handle the project in foreign countries alone. Be a testing engineer, software engineer and project manager to solve all of these customers’ problems.
+	Write test case/test plan, build bugzilla system and develop automated software testing to improve debug performance.
+	Support to test all 3G/4G products in foreign countries. Support AT&T Project in AT&T lab, Seattle and use instruments, R&S, Anite(Agilent), Anritsu, and Spirent, to pretest the protocol of the product. Support EE Project in UK and figure out all of problems and issues. Support Orange project in France and find out the root cause.
+	Using Java, Selenium and TestNG to build a framework of automated software testing.
+	Jiuzhou Project:
+	Develop embedded system that include Set-top-box application, middle layer,and linux device driver.
+	Using C/C++ language to develop the firmware based on Broadcom and MTK. 
+	Develop IPTV based on TCP/IP protocol.
 
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
+**Pegatron** Senior Software Engineer __2010 to 2014__
+	Using C/C++ language to design the project that based on Broadcom and Realtek.
+	Using C language to write the kernel driver to control new hardware.
+	Using C/C++ language to associate the driver with Framework on WiFi Router and Set-top-box.
+	Using HNAP to implement first-generation IoT platform based on WiFi Router for Arris.
+	Using Java/Eclipse to design Android Launcher on Smart TV.
+	Support the factory in China to resolve the produce problems.
+	Using JavaScript, JQuery and HTML to design WebUI to control the products and store the settings in the Flash.
 
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+**Skardin** Software Engineer __2008 to 2010__
+	Designed Set-top-box (Aka STB) based on Broadcom platform.
+	Using C/C++ to port the driver on the product.
+	Maintain the old projects to implement new features and improve the
+	performance.
 
 ------
 
 ### Projects
 
-* **Ethical Barcode**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+* **IO Stacke**
+	[github.com/pcjustin/resume](https://github.com/pcjustin/resume)
+	Designed a I/O Stack for send/receive message between two processes.
 
-* **Halifax Crime Heatmap**
-	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
+* **Python tools**
+	[github.com/pcjustin/tools](https://github.com/pcjustin/tools)
+	Programmed some tools for myself.
 
-* **Foxish**
-	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+* **Resume**
+	[github/pcjustin/resume](https://github.com/pcjustin/resume)
+	The resume generator.
 
 ------
 
 ### Education
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+**Master of Engineering  (Computer Science and Information Engineering)** __2011 to 2013__
+	Tamkang University, Taiwan
+
+**Bachelor of Informatics  (Computer Science and Engineering)** __2004 to 2007__
+	Yuan Ze University, Taiwan

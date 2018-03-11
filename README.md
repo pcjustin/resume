@@ -3,6 +3,11 @@ Fork from [David Hamp-Gonsalves](https://github.com/davidhampgonsalves/resume)
 I changed CSS formatting what I want to.
 
 # Requirment
+Install `nodejs`
+```
+$ brew install node
+```
+
 Install requirment packages
 ```
 $ npm install
