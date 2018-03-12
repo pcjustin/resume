@@ -7,7 +7,6 @@
 > [github.com/pcjustin/Master_Thesis](https://github.com/pcjustin/Master_Thesis)
 > [pcjustin@icloud.com](mailto:pcjustin@icloud.com)
 > (+86) 185-7558-5566
-> 1983-05-06
 
 ------
 
