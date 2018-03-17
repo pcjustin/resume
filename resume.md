@@ -71,7 +71,7 @@
 ### Projects
 
 * **IO Stacke**
-	[github.com/pcjustin/resume](https://github.com/pcjustin/resume)
+	[github.com/pcjustin/io_stack](https://github.com/pcjustin/io_stack)
 	Designed a I/O Stack for send/receive message between two processes.
 
 * **Python tools**
