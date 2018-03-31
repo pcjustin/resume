@@ -1,0 +1,3 @@
+# Cover Letter for applying ARM Senior Software Engineer
+
+I am interested in the job at ARM company. I am currently employed as senior software communication enginner and lead a small team. I believe that the skills and experiences I have fit at this position and glad to join the team and make me from good to best. Know how to improve the product performance even improve the team spirits and reduce the costs. The opportunity have what I want to join. Hope I can help the great team to get more glory and attentions.
