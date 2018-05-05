@@ -3,10 +3,8 @@
 
 > [pcjustin.github.io (English)](https://pcjustin.github.io/)
 > [blog.csdn.net/pcjustin (Mandarin)](http://blog.csdn.net/pcjustin)
-> [github.com/pcjustin](https://github.com/pcjustin)
-> [github.com/pcjustin/Master_Thesis](https://github.com/pcjustin/Master_Thesis)
 > [pcjustin@icloud.com](mailto:pcjustin@icloud.com)
-> (+86) 185-7558-5566
+> (+86) 185-7558-5656
 
 ------
 
@@ -90,9 +88,9 @@
 	[github.com/pcjustin/tools](https://github.com/pcjustin/tools)
 	Programmed some tools for myself.
 
-* **Resume**
-	[github/pcjustin/resume](https://github.com/pcjustin/resume)
-	The resume generator.
+* **Master Thesis**
+	[github.com/pcjustin/Master_Thesis](https://github.com/pcjustin/Master_Thesis)
+	Master Thesis
 
 ------
 
